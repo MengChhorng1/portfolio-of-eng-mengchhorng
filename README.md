@@ -71,16 +71,16 @@ My goal is to become a professional software developer who builds reliable, user
     <td width="50%">
       <h3 align="center">Alumni Management System</h3>
       <a href="#">
-        <img src="./assets/alumni.png" alt="Alumni Management System" width="100%" />
+        <img src="./src/assets/Poster of (Alumni Management System)1.png" alt="Alumni Management System" width="100%" />
       </a>
       <p>
-        A complete management system for handling alumni records, alumni activities, and related information in an organized way.
+        Bridging alumni, student life, and community. Stay connected, informed, and inspired.
       </p>
       <p>
-        <strong>Tech Stack:</strong> PHP, Laravel, MySQL, HTML, CSS, JavaScript
+        <strong>Tech Stack:</strong> Flutter, Dart, .NET, SQL Server
       </p>
       <p align="center">
-        <a href="#">
+        <a href="https://github.com/MengChhorng1/alumni_management_system.git">
           <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <a href="#">
@@ -91,16 +91,16 @@ My goal is to become a professional software developer who builds reliable, user
     <td width="50%">
       <h3 align="center">Product CRUD Operations</h3>
       <a href="#">
-        <img src="./assets/crud.png" alt="Product CRUD Operations" width="100%" />
+        <img src="./src/assets/Poster of (Product CRUD Operations)1.png" alt="Product CRUD Operations" width="100%" />
       </a>
       <p>
-        Product management system with create, update, delete, search, and organized data management features.
+        Manage your inventory with powerful Create, Read, Update, and Delete workflows. Organized. Efficient. Intuitive.
       </p>
       <p>
-        <strong>Tech Stack:</strong> PHP, Laravel, MySQL, Bootstrap
+        <strong>Tech Stack:</strong> Flutter, Dart, Node js + Express js, SQL Server
       </p>
       <p align="center">
-        <a href="#">
+        <a href="https://github.com/MengChhorng1/flutter-product-CRUD.git">
           <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <a href="#">
@@ -112,18 +112,18 @@ My goal is to become a professional software developer who builds reliable, user
 
   <tr>
     <td width="50%">
-      <h3 align="center">Customer Related Management System</h3>
+      <h3 align="center">System Related to Customer</h3>
       <a href="#">
-        <img src="./assets/customer.png" alt="Customer Related Management System" width="100%" />
+        <img src="./src/assets/Poster of (System Related to Customer)1.png" alt="Customer Related Management System" width="100%" />
       </a>
       <p>
-        A management system for handling customers, appointments, orders, and customer-related business activities.
+        Friendly mobile flows designed for browsing products, placing orders, and booking support with ease.
       </p>
       <p>
-        <strong>Tech Stack:</strong> PHP, Laravel, MySQL, HTML, CSS
+        <strong>Tech Stack:</strong> Flutter, Dart, PHP, Laravel, PostgreSQL
       </p>
       <p align="center">
-        <a href="#">
+        <a href="https://github.com/MengChhorng1/flutter-customer-system.git">
           <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <a href="#">
@@ -132,18 +132,18 @@ My goal is to become a professional software developer who builds reliable, user
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">ABA Mobile Bank UI Clone</h3>
+      <h3 align="center">ABA Mobile Bank</h3>
       <a href="#">
-        <img src="./assets/aba.png" alt="ABA Mobile Bank UI Clone" width="100%" />
+        <img src="./src/assets/Poster of (ABA Mobile Bank).png" alt="ABA Mobile Bank UI Clone" width="100%" />
       </a>
       <p>
-        Flutter UI clone inspired by ABA Mobile Banking application with a clean and modern mobile interface.
+        Fast QR payments. Clear balance, complete control.
       </p>
       <p>
         <strong>Tech Stack:</strong> Flutter, Dart, UI/UX Design
       </p>
       <p align="center">
-        <a href="#">
+        <a href="https://github.com/MengChhorng1/ABA-Project.git">
           <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <a href="#">
@@ -157,16 +157,16 @@ My goal is to become a professional software developer who builds reliable, user
     <td width="50%">
       <h3 align="center">Enrollment System</h3>
       <a href="#">
-        <img src="./assets/enrollment.png" alt="Enrollment System" width="100%" />
+        <img src="./src/assets/Poster of (Enrollment System).png" alt="Enrollment System" width="100%" />
       </a>
       <p>
-        Student enrollment and registration management system designed to manage student information efficiently.
+        A modern enrollment management platform build for educational institutions.
       </p>
       <p>
-        <strong>Tech Stack:</strong> PHP, Laravel, MySQL, Bootstrap
+        <strong>Tech Stack:</strong> HTML, CSS ,PHP, Laravel, MySQL
       </p>
       <p align="center">
-        <a href="#">
+        <a href="https://github.com/MengChhorng1/project-enrollment-system.git">
           <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <a href="#">
@@ -175,18 +175,18 @@ My goal is to become a professional software developer who builds reliable, user
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">Portfolio Website</h3>
+      <h3 align="center">Product Management</h3>
       <a href="#">
-        <img src="./assets/portfolio.png" alt="Portfolio Website" width="100%" />
+        <img src="./src/assets/Poster of (Product Management).png" alt="Portfolio Website" width="100%" />
       </a>
       <p>
-        Personal responsive portfolio website with modern UI, smooth sections, and dark/light mode support.
+        Browse products, manage users, and explore giveaway content in a sleek dark experience.
       </p>
       <p>
-        <strong>Tech Stack:</strong> React.js, Tailwind CSS, JavaScript
+        <strong>Tech Stack:</strong> Flutter, Dart, Fake API
       </p>
       <p align="center">
-        <a href="#">
+        <a href="https://github.com/MengChhorng1/Product-Management.git">
           <img src="https://img.shields.io/badge/GitHub-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <a href="#">
@@ -203,11 +203,6 @@ My goal is to become a professional software developer who builds reliable, user
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MengChhorng1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MengChhorng1&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
-
-<br />
 
 <img width="70%" src="https://streak-stats.demolab.com?user=MengChhorng1&theme=github-dark-blue&hide_border=true" alt="GitHub Streak Stats" />
 
@@ -254,15 +249,15 @@ My goal is to become a professional software developer who builds reliable, user
 
 <div align="center">
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:chhorng349@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://facebook.com/your-facebook-profile">
+<a href="https://www.facebook.com/meng.chhorng.391">
   <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://t.me/your-telegram-username">
+<a href="https://t.me/mengchhorng">
   <img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
@@ -270,7 +265,7 @@ My goal is to become a professional software developer who builds reliable, user
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin-profile">
+<a href="https://www.linkedin.com/in/meng-chhorng-ab2a833b7?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
