@@ -5,7 +5,7 @@ import path from "path";
 export default defineConfig({
   plugins: [react()],
 
-  base: "/portfolio_of_mengchhorng/",
+  base: "/portfolio-of-eng-mengchhorng/",
 
   resolve: {
     alias: {

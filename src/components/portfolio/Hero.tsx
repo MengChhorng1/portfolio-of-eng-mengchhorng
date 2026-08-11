@@ -97,16 +97,17 @@ export function Hero() {
           </div>
 
           <p className="max-w-xl text-base leading-relaxed text-muted-foreground sm:text-lg">
-            I craft delightful, performant digital experiences — from
-            pixel-perfect interfaces to cross-platform mobile apps. Passionate
-            about clean code, thoughtful design, and building products people
-            love to use.
+            I craft responsive, high-performance digital experiences — from
+            elegant <b>Flutter mobile apps</b> to modern frontend websites using HTML,
+            CSS, JavaScript, React, and Tailwind CSS. Passionate about clean
+            code, intuitive UI/UX, and building products that are both visually
+            impressive and user-friendly.
           </p>
 
           <div className="flex flex-wrap gap-3 pt-2">
             <Button size="lg" variant="hero" asChild>
               <a
-                href={`${import.meta.env.BASE_URL}My CV (Eng Mengchhorng).pdf`}
+                href={`${import.meta.env.BASE_URL}MY CV (Eng Mengchhorng).pdf`}
                 download
               >
                 <Download className="h-4 w-4" />

@@ -6,9 +6,10 @@ type Skill = { name: string; value: number };
 const programming: Skill[] = [
   { name: "Flutter / Dart", value: 92 },
   { name: "HTML / CSS / JS", value: 80 },
-  { name: "React / TypeScript", value: 50 },
-  { name: "PHP / Laravel", value: 45 },
+  { name: "Node JS / Express JS", value: 75 },
+  { name: "PHP / Laravel", value: 35 },
   { name: "MySQL", value: 60 },
+  { name: "SQL Server", value: 65 },
   { name: "Git / GitHub", value: 70 },
 ];
 

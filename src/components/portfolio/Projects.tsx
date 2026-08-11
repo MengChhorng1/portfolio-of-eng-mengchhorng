@@ -1,47 +1,54 @@
 import { ExternalLink, Github } from "lucide-react";
-import ecommerce from "@/assets/Poster of (Alumni Management System).png";
-import portfolio from "@/assets/Poster of (Product CRUD Operations).png";
-import alumni from "@/assets/Poster of (System Related to Customer).png";
-import pos from "@/assets/project-pos.jpg";
-import booking from "@/assets/project-booking.jpg";
-import flutter from "@/assets/project-flutter.jpg";
+import Alumni from "@/assets/Poster of (Alumni Management System)1.png";
+import CRUD_Operations from "@/assets/Poster of (Product CRUD Operations)1.png";
+import System_Related_of_Customer from "@/assets/Poster of (System Related to Customer)1.png";
+import ABA_Mobile_Bank from "@/assets/Poster of (ABA Mobile Bank).png";
+import Enrollment_System from "@/assets/Poster of (Enrollment System).png";
+import Product_Management from "@/assets/Poster of (Product Management).png";
 
 const projects = [
   {
-    title: "Alumni Management System",
-    desc: "A clean and connected platform for profiles, community engagement, events, and secure alumni access.",
-    stack: ["Flutter", "Dart", ".NET","SQL Server"],
-    img: ecommerce,
+    title: "System Related to Customer",
+    desc: "Friendly mobile flows designed for browsing products, placing orders, and booking support with ease.",
+    stack: ["Flutter", "Dart", "PHP", "Laravel", "PostgreSQL"],
+    img: System_Related_of_Customer,
+    link: "https://github.com/MengChhorng1/flutter-customer-system.git",
   },
+  
   {
     title: "Product CRUD Operations",
-    desc: "Passionate about building modern applications with Flutter and web technologies.",
+    desc: "Manage your inventory with powerful Create, Read, Update, and Delete workflows. Organized. Efficient. Intuitive.",
     stack: ["Flutter", "Dart", "Node js + Express js", "SQL Server"],
-    img: portfolio,
+    img: CRUD_Operations,
+    link: "https://github.com/MengChhorng1/flutter-product-CRUD.git",
   },
   {
-    title: "System Related to Customer",
-    desc: "Passionate about building modern applications with Flutter and web technologies.",
-    stack: ["Flutter", "Dart", "PHP", "Laravel", "PostgreSQL"],
-    img: alumni,
+    title: "Alumni Management System",
+    desc: "Bridging alumni, student life, and community. Stay connected, informed, and inspired.",
+    stack: ["Flutter", "Dart", ".NET","SQL Server"],
+    img: Alumni,
+    link: "https://github.com/MengChhorng1/alumni_management_system.git",
   },
   {
-    title: "POS Dashboard",
-    desc: "Real-time sales and inventory dashboard for retail businesses.",
-    stack: ["React", "Node.js", "Charts"],
-    img: pos,
+    title: "ABA Mobile Bank",
+    desc: "Fast QR payments. Clear balance, complete control.",
+    stack: ["Flutter", "Dart"],
+    img: ABA_Mobile_Bank,
+    link: "https://github.com/MengChhorng1/ABA-Project.git",
   },
   {
-    title: "Booking App",
-    desc: "A mobile booking experience with calendar, reminders, and payments.",
-    stack: ["Flutter", "REST API", "Firebase"],
-    img: booking,
+    title: "Enrollment System",
+    desc: "A modern enrollment management platform build for educational institutions.",
+    stack: ["HTML", "CSS", "PHP", "Laravel", "MySQL"],
+    img: Enrollment_System,
+    link: "https://github.com/MengChhorng1/project-enrollment-system.git",
   },
   {
-    title: "Flutter UI Kit",
-    desc: "A curated set of production-ready Flutter UI components and screens.",
-    stack: ["Flutter", "Dart", "UI Kit"],
-    img: flutter,
+    title: "Product Management",
+    desc: "Browse products, manage users, and explore giveaway content in a sleek dark experience.",
+    stack: ["Flutter", "Dart", "Fake API"],
+    img: Product_Management,
+    link: "https://github.com/MengChhorng1/Product-Management.git",
   },
 ];
 
@@ -77,7 +84,7 @@ export function Projects() {
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-background/90 via-background/20 to-transparent opacity-60 group-hover:opacity-80 transition-smooth" />
                 <div className="absolute right-3 top-3 flex gap-2 opacity-0 group-hover:opacity-100 transition-smooth">
-                  <a href="#" aria-label="GitHub" className="flex h-9 w-9 items-center justify-center rounded-full glass hover:text-primary">
+                  <a href={p.link} target="_blank" aria-label="GitHub" className="flex h-9 w-9 items-center justify-center rounded-full glass hover:text-primary">
                     <Github className="h-4 w-4" />
                   </a>
                   <a href="#" aria-label="Live" className="flex h-9 w-9 items-center justify-center rounded-full glass hover:text-primary">

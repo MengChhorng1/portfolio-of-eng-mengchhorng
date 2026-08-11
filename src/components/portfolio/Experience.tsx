@@ -2,8 +2,8 @@ import { Briefcase, GraduationCap } from "lucide-react";
 
 const experience = [
   {
-    role: "Flutter Developer ,Web Developer , UI/UX Designer Training",
-    org: "Full Time",
+    role: "Flutter Developer ,Web Developer , UI/UX Designer",
+    org: "Training",
     period: "2023 — 2024",
     bullets: [
       "Developed mobile applications using Flutter and Dart",
@@ -14,8 +14,8 @@ const experience = [
     ],
   },
   {
-    role: "Flutter Developer Internship",
-    org: "Full Time",
+    role: "Flutter Developer",
+    org: "Internship",
     period: "2025 — 2026",
     bullets: [
       "Developed mobile applications using Flutter and Dart",
@@ -30,7 +30,7 @@ const experience = [
 const education = [
   {
     role: "VIHEASOUR Primary School , VIHEASOUR Secondary School , ROTA High School",
-    org: "Studying",
+    org: "Studied",
     period: "2016 — 2022",
     bullets: [
       "2016 : Graduated Primary School at VIHEASOUR Primary School",
@@ -40,7 +40,7 @@ const education = [
   },
   {
     role: "NORTON UNIVERSITY",
-    org: "Software Development",
+    org: "Currently studying",
     period: "2022 — Present",
     bullets: ["Fourth-year student in Semester II, specializing in (Software Development) at NORTON UNIVERSITY."],
   },

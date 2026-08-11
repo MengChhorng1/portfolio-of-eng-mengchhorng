@@ -45,7 +45,7 @@ function Counter({ to, suffix }: { to: number; suffix: string }) {
 }
 
 const info = [
-  { Icon: Calendar, label: "Date of Birth", value: "19, May, 2003" },
+  { Icon: Calendar, label: "Date of Birth", value: "19, May, 2005" },
   { Icon: Flag, label: "Nationality", value: "Cambodian" },
   { Icon: MapPin, label: "Location", value: "Phnom Penh, Cambodia" },
   { Icon: Globe, label: "Languages", value: "Khmer · English" },
